@@ -1,5 +1,5 @@
-![FlyByWire Simulations](https://raw.githubusercontent.com/flybywiresim/branding/master/tails-with-text/FBW-Color-Light.svg#gh-dark-mode-only)
-![FlyByWire Simulations](https://raw.githubusercontent.com/flybywiresim/branding/master/tails-with-text/FBW-Color-Dark.svg#gh-light-mode-only)
+![FS Live Traffic Liveries](https://raw.githubusercontent.com/Awemeter/LTLBot/Rebrand-to-match-FSLTL/assets/images/FSLTL-Logo-Transparent-White.png#gh-dark-mode-only)
+![[FS Live Traffic Liveries](https://raw.githubusercontent.com/Awemeter/LTLBot/Rebrand-to-match-FSLTL/assets/images/FSLTL-Logo-Transparent-Black.png#gh-light-mode-only)
 
 [![Discord](https://img.shields.io/discord/738864299392630914.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/flybywire)
 [![Twitter](https://img.shields.io/badge/-@FlyByWireSim-e84393?label=&logo=twitter&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://twitter.com/FlybywireSim)
@@ -9,7 +9,7 @@
 
 # FlyByWire Discord Bot
 
-This is the repository for the FlyByWire Simulations Discord bot.
+This is the repository for the FS Live Traffic Liveries Discord bot.
 
 ## Best Practices
 
