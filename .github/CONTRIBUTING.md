@@ -2,10 +2,10 @@
 Please reference the information below when contributing to this repository.
 
 ## Welcome
-Welcome to the FlyByWire Simulations Discord bot repository. Thank you for your interest in contributing to the project. Full details and guidelines on how to ensure this project is managed are included below.
+Welcome to the FS Live Traffic Simulations Discord bot repository. Thank you for your interest in contributing to the project. Full details and guidelines on how to ensure this project is managed are included below.
 
 ## Helping others
-Please help other contributors to the project wherever you can, as people all start somewhere. If you require assistance or wish to provide assistance you can ask/answer questions in the #discord-bot or #dev-support channel on [discord](https://discord.gg/flybywire).
+Please help other contributors to the project wherever you can, as people all start somewhere. If you require assistance or wish to provide assistance you can ask/answer questions in the #discord-bot or #dev-support channel on [discord](https://discord.gg/suMR56wCrn).
 
 ## Prerequisites
 - [node](https://nodejs.org/) version >= 16.x

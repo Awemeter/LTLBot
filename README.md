@@ -1,21 +1,16 @@
 ![FS Live Traffic Liveries](https://raw.githubusercontent.com/Awemeter/LTLBot/Rebrand-to-match-FSLTL/assets/images/FSLTL-Logo-Transparent-White.png#gh-dark-mode-only)
 ![FS Live Traffic Liveries](https://raw.githubusercontent.com/Awemeter/LTLBot/Rebrand-to-match-FSLTL/assets/images/FSLTL-Logo-Transparent-Black.png#gh-light-mode-only)
 
-[![Discord](https://img.shields.io/discord/738864299392630914.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/flybywire)
-[![Twitter](https://img.shields.io/badge/-@FlyByWireSim-e84393?label=&logo=twitter&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://twitter.com/FlybywireSim)
-[![YouTube](https://img.shields.io/badge/-FlyByWireSimulations-e84393?label=&logo=youtube&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://www.youtube.com/c/FlyByWire-Simulations)
-[![Facebook](https://img.shields.io/badge/-FlyByWireSimulations-e84393?label=&logo=facebook&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://www.facebook.com/FlyByWireSimulations/)
-[![Instagram](https://img.shields.io/badge/-@FlyByWireSim-e84393?label=&logo=instagram&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://instagram.com/flybywiresim)
+[![Discord](https://img.shields.io/discord/781587165989175386.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/suMR56wCrn)
+[![YouTube](https://img.shields.io/badge/FSLiveTrafficLiveries-e84393?label=&logo=youtube&logoColor=ffffff&color=Ff0000&labelColor=Ff0000)](https://www.youtube.com/channel/UCECOicwhuKEDDkwDMw4yWaQ)
 
-# FlyByWire Discord Bot
+# FS Live Traffic Liveries
 
 This is the repository for the FS Live Traffic Liveries Discord bot.
 
 ## Best Practices
 
 * Please use clear names for your PR's and commands.
-* Check [here](https://github.com/flybywiresim/discord-bot/projects/1) what is being worked on, or check the #discord-bot channel in the Discord Server.
-* Check the #discord-bot channel for regular discussions about the repository.
 
 ## Contributing
 
